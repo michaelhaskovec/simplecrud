@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [47.39261311,8.04689527]
+  },
+  "properties": {
+    "name": "Piwi"
+  }
+}
